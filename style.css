@@ -763,7 +763,6 @@ span{
     .projects-container{
         margin: auto;
         max-width: 90vw;
-        background-color: green;
     }
     .project-box{
         max-height: 350px;
