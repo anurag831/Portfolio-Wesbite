@@ -761,13 +761,16 @@ span{
 }
 @media(max-width:425px){
     .projects-container{
-        max-width: 300px;
+        margin: auto;
+        max-width: 90vw;
+        background-color: green;
     }
     .project-box{
         background-color: red;
         max-height: 350px;
     }
     .project-info{
+        margin: auto;
         max-width: 300px;
         max-height: 250px;
     }
