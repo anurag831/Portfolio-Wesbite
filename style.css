@@ -933,7 +933,7 @@ span {
     flex-wrap: wrap;
     gap: 0.7rem;
     margin-bottom: 1.5rem;
-    justify-content: center;
+    width: 72%;
 }
 
 .internship-skills span {
